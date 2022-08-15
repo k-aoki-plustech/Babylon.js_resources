@@ -1,0 +1,11 @@
+
+//Babylon.jsのImportMesh（リソースファイルをURL上からアクセスさせる方法）
+https://qiita.com/iwaken71/items/9e486a6ca347fac5d387
+
+
+githubをpublicにすること。
+
+
+https://github.com/k-aoki-plustech/Babylon.js_resources/main/model/
+
+https://raw.githubusercontent.com/k-aoki-plustech/Babylon.js_resources/main/model/
